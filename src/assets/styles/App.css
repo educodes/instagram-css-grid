@@ -50,3 +50,9 @@ body{
   display: inline-block;
   text-align: center;
 }
+
+@media screen and (max-width: 768px){
+  .post_list{
+    gap: 3px;
+  }
+}
